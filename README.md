@@ -7,3 +7,4 @@ When using this repository as a project template, complete the following steps a
 2. In a terminal, run `npm install` to install all necessary dependencies
 3. In a terminal, run `npm init @eslint/config@latest` and complete all prompts to configure eslint
 4. In `src/index.html`, change the value of the `Title` tag as needed
+5. Update the README as needed
